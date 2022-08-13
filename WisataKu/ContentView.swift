@@ -7,7 +7,11 @@
 
 import SwiftUI
 
+
 struct ContentView: View {
+    
+    @ObservedObject var obs = observer()
+    
     var body: some View {
         Text("Hello, world!")
             .padding()
@@ -19,3 +23,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
+
