@@ -21,5 +21,4 @@ Final project assessment submission for Dicoding: Membuat Aplikasi iOS untuk Pem
 
 
 ## App Prototype Design
-
-[https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FDv5iUZfSITkINH5Sa0HARA%2FAplikasi-WisataKu---Proyek-Akhir-Dicoding%253A-Membuat-Aplikasi-iOS-untuk-Pemula%3Fnode-id%3D0%253A1](asda)
+👉 [WisataKu Design Prototype at Figma](https://www.figma.com/file/Dv5iUZfSITkINH5Sa0HARA/Aplikasi-WisataKu---Proyek-Akhir-Dicoding%3A-Membuat-Aplikasi-iOS-untuk-Pemula?node-id=0%3A1)
